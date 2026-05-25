@@ -1,2 +1,2 @@
-# Suma-Datos-Compras
-Mini-ejercicio de JS con suma, datos, y resumen de compras con total.
+# Resta-Datos-Compras
+Mini-ejercicio de JS con resta, datos y resumen de compras con total.
