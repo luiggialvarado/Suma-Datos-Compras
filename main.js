@@ -2,7 +2,7 @@
 let numero1 = Number(prompt("Introduce el primer número"));
 let numero2 = Number(prompt("Introduce el segundo número"));
 
-let resultado = numero1 - numero2;
+let resultado = numero1 + numero2;
 
 console.log("El resultado es: " + resultado);
 document.getElementById("resultado").textContent =
